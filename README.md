@@ -4,14 +4,6 @@
 
 🔗 **[Посмотреть приложение](https://usmankamayl.github.io/Billing/)**
 
----
-
-## 📸 Превью
-
-![Preview](https://usmankamayl.github.io/Billing/img/taxes.svg)
-
----
-
 ## 🛠️ Технологии
 
 | Технология | Описание |
